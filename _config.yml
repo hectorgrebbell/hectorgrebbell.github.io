@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Hector Grebbell
 tagline:          'Systems Developer based in London'
-description:      'Yet another code blog. To skip to the interesting bit head to <a href="https://github.com/hectorgrebbell" target="_blank">Github</a>.'
+description:      'Yet another code blog. Alternatively just head to <a href="https://github.com/hectorgrebbell" target="_blank">Github</a>.'
 url:              https://fongandrew.github.io/hydeout
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.

@@ -3,6 +3,14 @@ _gh_pages
 _site
 .ruby-version
 
+# Example Posts
+_posts/200[0-9]*
+_posts/201[0-7]*
+
+# Example categories
+category/markup.md
+category/edge-case.md
+
 # Numerous always-ignore extensions
 *.diff
 *.err
