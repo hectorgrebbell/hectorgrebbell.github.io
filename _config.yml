@@ -1,0 +1,34 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Setup
+title:            Hector Grebbell
+tagline:          'Systems Developer based in London'
+description:      'Yet another code blog. To skip to the interesting bit head to <a href="https://github.com/hectorgrebbell" target="_blank">Github</a>.'
+url:              https://fongandrew.github.io/hydeout
+baseurl:          # the optional subpath of your site, e.g. "/blog"
+                  # NB: This applies to all pages in your Jekyll site.
+                  # If you want to move just the blog index pages but keep
+                  # other pages at root, see the paginate_path and
+                  # sidebar_blog_link below.
+
+author:
+  name:           'Hector Grebbell'
+  url:            https://hectorgrebbell.github.io/
+
+paginate:         5
+# paginate_path:    '/page:num'
+                    # Or '/blog/page:num' if you want to move your index pages
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+# Custom vars
+version:            3.5.3
+sidebar_home_link:  true
+# sidebar_blog_link:  '/blog'   
+github:
+  repo:             hectorgrebbell/hectorgrebbell.github.io
