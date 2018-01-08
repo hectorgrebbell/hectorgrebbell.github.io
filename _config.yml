@@ -32,3 +32,5 @@ sidebar_home_link:  true
 # sidebar_blog_link:  '/blog'   
 github:
   repo:             hectorgrebbell/hectorgrebbell.github.io
+  
+google_analytics: UA-112139364-1
